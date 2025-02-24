@@ -4,9 +4,11 @@
 -  Je suis passionnée par le développement web & mobile, l’ingénierie logicielle et la gestion de projets IT.  
 - 🚀 Actuellement, j’apprends React & React Native.  
 - 💞 Je suis ouverte à des collaborations sur des projets web et mobiles.  
-- ⚡ J’adore découvrir de nouvelles technologies et relever des défis avec du code ! 
-🔗 [Mon LinkedIn](www.linkedin.com/in/jollyketa) | 
-📩 Contact : vincentiaketamaboudi@gmail.com  
+- ⚡ J’adore découvrir de nouvelles technologies et relever des défis avec du code !
+- 🔗 [Mon LinkedIn](www.linkedin.com/in/jollyketa) |
+- 📩 Contact : vincentiaketamaboudi@gmail.com  
+
+
 
 
 
